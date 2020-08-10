@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EFDataAccessLibrary\ServerDataAccessLibrary.csproj" />
+    <ProjectReference Include="..\ServerDataAccessLibrary\ServerDataAccessLibrary.csproj" />
   </ItemGroup>
 
 </Project>
